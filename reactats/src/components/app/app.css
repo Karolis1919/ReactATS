@@ -1,0 +1,38 @@
+.container {
+  text-align: center; }
+
+body {
+  background-color: #000000; }
+
+* {
+  color: #ffffff; }
+
+.container {
+  margin: 20px;
+  font-weight: bold;
+  box-shadow: 1px 1px px #d20003; }
+
+input {
+  margin-bottom: 20px;
+  border: solid 1px #000000;
+  border-radius: 5px;
+  width: 20rem;
+  height: 35px; }
+
+button {
+  background-color: black;
+  color: #ffffff;
+  border: solid 1px #ffffff;
+  border-radius: 5px;
+  height: 40px;
+  width: 5rem; }
+
+.rez h1 {
+  font-size: 48px;
+  color: #ffffff; }
+
+.rez h3 {
+  font-size: 24px;
+  color: #d20003; }
+
+/*# sourceMappingURL=app.css.map */

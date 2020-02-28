@@ -1,0 +1,9 @@
+footer p {
+  color: #ff0003; }
+
+footer {
+  display: flex;
+  text-align: center;
+  justify-content: center; }
+
+/*# sourceMappingURL=footer.css.map */
